@@ -1,0 +1,12 @@
+/Users/lazy/code/littleBrowser/target/debug/deps/ecolor-2979449826b7e05c.d: /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs
+
+/Users/lazy/code/littleBrowser/target/debug/deps/libecolor-2979449826b7e05c.rlib: /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs
+
+/Users/lazy/code/littleBrowser/target/debug/deps/libecolor-2979449826b7e05c.rmeta: /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs /Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs
+
+/Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs:
+/Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs:
+/Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs:
+/Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs:
+/Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs:
+/Users/lazy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs:

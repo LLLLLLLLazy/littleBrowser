@@ -1,0 +1,13 @@
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\obj\Debug\Internet.exe
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\obj\Debug\Internet.pdb
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\obj\Debug\Internet.Form1.resources
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\obj\Debug\Internet.Properties.Resources.resources
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\obj\Debug\Internet.csproj.GenerateResource.Cache
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\bin\Debug\Internet.exe.manifest
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\bin\Debug\Internet.application
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\bin\Debug\Internet.exe
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\bin\Debug\Internet.pdb
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\obj\Debug\Internet.exe.manifest
+F:\生产实习-网络方向\WEB系统\web11\Internet\Internet\obj\Debug\Internet.application
+F:\生产实习-网络方向\WEB系统\broswer - 副本\Internet\Internet\obj\Debug\Internet.exe
+F:\生产实习-网络方向\WEB系统\broswer - 副本\Internet\Internet\obj\Debug\Internet.pdb

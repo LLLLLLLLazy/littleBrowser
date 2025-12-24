@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>MyNet(WuMingJie.com)</title>
+</head>
+<body>
+<h1>This is my first index.You can connection MysqlDB</h1>
+<br/>
+<form action="mysql.cgi" method="get">
+Input Name: <input type="text" name="name">  <br />
+<input type="submit" value="Search" />
+</form>
+<br/>
+
+<form action="mysql_insert.cgi" method="get">
+First Name: <input type="text" name="first_name">  <br />
+Last Name: <input type="text" name="last_name">  <br />
+Age: <input type="text" name="age">  <br />
+<input type="submit" value="Insert" />
+</form>
+<br/>
+
+<form action="mysql_alter.cgi" method="get">
+Input First_Name: <input type="text" name="name">  <br />
+Input New_Age: <input type="text" name="new_age">  <br />
+<input type="submit" value="Alter" />
+</form>
+<br/>
+
+<form action="mysql_delete.cgi" method="get">
+Input First_Name: <input type="text" name="name">  <br />
+<input type="submit" value="Delete" />
+</form>
+<br/>
+
+
+</body>
+</html>
